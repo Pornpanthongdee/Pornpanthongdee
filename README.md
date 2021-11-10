@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pornpanthongdee
-- 👀 I’m interested in learning
+- 👀 I love  learning new things!
 - 🌱 I’m currently learning web development and data analytics
 - 💞️ I will use Github to develop my programs
 - 📫 How to reach me pornpanthongdee02@gmail.com
