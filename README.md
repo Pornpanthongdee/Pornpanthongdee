@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pornpanthongdee
-- 👀 I love  learning new things!
-- 🌱 I’m currently learning web development and data analytics
+- 👋 Hi, I’m Pornpan Thongdee
+- 👀 I love learning new things!
+- 🌱 I’m currently learning data analytics
 - 💞️ I will use Github to develop my programs
 - 📫 How to reach me pornpanthongdee02@gmail.com
 
