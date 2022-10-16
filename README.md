@@ -1,14 +1,14 @@
-<h1 align="center">- 👋 Hi, I’m (EYE) Pornpan Thongdee 👁</h1>
+- 👋 Hi, I’m (EYE) Pornpan Thongdee 👁
 
-<h2align="center">- 👀 I love learning new things! 🧠</h2>
-<h2align="center">- 🌱 I have done Web Delvelopment and Data Science bootcamps with Le wagon 🏆</h2>
-<h2align="center">- 🌱 I’m currently learning Data Science with General Assembly👩‍💻</h2>
-<h2align="center">- 💞️ I will use Github to develop my programs 🦾</h2>
+- 👀 I love learning new things! 🧠
+- 🌱 I have done Web Delvelopment and Data Science bootcamps with Le wagon 🏆
+- 🌱 I’m currently learning Data Science with General Assembly👩‍💻
+- 💞️ I will use Github to develop my programs 🦾
 
-<h3 align="left">- 📫 How to reach me?🌐</h3>
+- 📫 How to reach me?🌐
 
-<h3 align="center">- ➡️ Email: pornpanthongdee02@gmail.com </h3>
-<h3 align="center">- ➡️ Linkedin: https://www.linkedin.com/in/pornpan-thongdee-61ab79141/</h3>
+- ➡️ Email: pornpanthongdee02@gmail.com 
+- ➡️ Linkedin: https://www.linkedin.com/in/pornpan-thongdee-61ab79141/
 
 - 👌 One of my finished projects is [Menu.Me](https://github.com/nganguyenny/menu_me)
 
