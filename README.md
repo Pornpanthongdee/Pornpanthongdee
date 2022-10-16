@@ -10,7 +10,8 @@
 - ➡️ Email: pornpanthongdee02@gmail.com 
 - ➡️ Linkedin: https://www.linkedin.com/in/pornpan-thongdee-61ab79141/
 
-- 👌 One of my finished projects is [Menu.Me](https://github.com/nganguyenny/menu_me)
+- 👌 My first project (Web Delvelopment) was [Menu.Me](https://github.com/nganguyenny/menu_me)📲
+- 👌 My second  project(Data Science) was [Menu.Me](https://github.com/nganguyenny/menu_me)📱
 
 <p align="left">
 
