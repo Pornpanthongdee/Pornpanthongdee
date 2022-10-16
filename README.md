@@ -8,13 +8,9 @@
 <p align="left">
   
 <h3 align="left">📫 How to reach me?</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/pornpan-thongdee-61ab79141/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:pornpanthongdee02@gmail.com" target="_blank">![eMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> </p>
 
-</p>
-
-<a href="https://www.linkedin.com/in/paulhattabe/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:hattabepaul13@gmail.com" target="_blank">![eMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/pornpan-thongdee-61ab79141/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:pornpanthongdee02@gmail.com" target="_blank">![eMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 
 - 👌 My first project (Web Delvelopment) 📱[Kinder-projects](https://github.com/CAVASOL/Kinder-projects)📱
