@@ -3,9 +3,15 @@
 - 🌱 I have done Web Delvelopment and Data Science bootcamps with Le wagon 🏆
 - 🌱 I’m currently learning Data Science with General Assembly👩‍💻
 - 💞️ I will use Github to develop my programs 🦾
+
 - 📫 How to reach me?🌐 
+
 - ➡️ Email: pornpanthongdee02@gmail.com 
 - ➡️ Linkedin: https://www.linkedin.com/in/pornpan-thongdee-61ab79141/
+
+Languages and Tools:
+  docker  gcp  heroku  mysql  pandas   python  scikit_learn  seaborn  
+
 
 <!---
 Pornpanthongdee/Pornpanthongdee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
