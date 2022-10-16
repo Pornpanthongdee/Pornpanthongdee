@@ -3,7 +3,7 @@
 - 👀 I love learning new things! 🧠
 - 🌱 I have done Web Delvelopment and Data Science bootcamps with Le wagon 🏆
 - 🌱 I’m currently learning Data Science with General Assembly👩‍💻
-- 💞️ I will use Github to develop my programs 🦾
+- 💞️ I am using Github to develop my programs 🦾
 
 <p align="left">
   
