@@ -6,9 +6,9 @@
 - 💞️ I will use Github to develop my programs 🦾
 
 - 📫 How to reach me?🌐
+<a href="https://www.linkedin.com/in/pornpan-thongdee-61ab79141/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:pornpanthongdee02@gmail.com" target="_blank">![eMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-- ➡️ Email: pornpanthongdee02@gmail.com 
-- ➡️ Linkedin: https://www.linkedin.com/in/pornpan-thongdee-61ab79141/
 
 - 👌 My first project (Web Delvelopment) 📱[Kinder-projects](https://github.com/CAVASOL/Kinder-projects)📱
 - 👌 My second  project(Data Science) 📱[Menu.Me](https://github.com/nganguyenny/menu_me)📱
