@@ -1,4 +1,4 @@
-- 👋 Hi, I’m (EYE) Pornpan Thongdee 👁
+<h1 align="center">- 👋 Hi, I’m (EYE) Pornpan Thongdee 👁</h1>
 
 - 👀 I love learning new things! 🧠
 - 🌱 I have done Web Delvelopment and Data Science bootcamps with Le wagon 🏆
