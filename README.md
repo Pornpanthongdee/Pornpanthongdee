@@ -13,6 +13,9 @@
 
 </p>
 
+<a href="https://www.linkedin.com/in/paulhattabe/" target="_blank">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:hattabepaul13@gmail.com" target="_blank">![eMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 - 👌 My first project (Web Delvelopment) 📱[Kinder-projects](https://github.com/CAVASOL/Kinder-projects)📱
 - 👌 My second  project(Data Science) 📱[Menu.Me](https://github.com/nganguyenny/menu_me)📱
