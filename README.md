@@ -1,4 +1,4 @@
-<h3 align="left"> 👋 Hi, I’m (EYE) Pornpan Thongdee 👁</h3>
+<h3 align="left"> 👋 Hi, I’m (EYE) Pornpan Thongdee from Bangkok,Thailand👁</h3>
 
 - 👀 I love learning new things! 🧠
 - 🌱 I have done Web Delvelopment and Data Science bootcamps with Le wagon 🏆
