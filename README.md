@@ -10,8 +10,8 @@
 - ➡️ Email: pornpanthongdee02@gmail.com 
 - ➡️ Linkedin: https://www.linkedin.com/in/pornpan-thongdee-61ab79141/
 
-- 👌 My first project (Web Delvelopment) was [Kinder-projects](https://github.com/CAVASOL/Kinder-projects)📲
-- 👌 My second  project(Data Science) was [Menu.Me](https://github.com/nganguyenny/menu_me)📱
+- 👌 My first project (Web Delvelopment) 📱[Kinder-projects](https://github.com/CAVASOL/Kinder-projects)📱
+- 👌 My second  project(Data Science) 📱[Menu.Me](https://github.com/nganguyenny/menu_me)📱
 
 <p align="left">
 
