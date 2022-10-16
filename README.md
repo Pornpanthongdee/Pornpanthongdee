@@ -10,7 +10,7 @@
 - ➡️ Linkedin: https://www.linkedin.com/in/pornpan-thongdee-61ab79141/
 
 Languages and Tools:
-  docker  gcp  heroku  mysql  pandas   python  scikit_learn  seaborn  
+  docker   heroku  mysql  pandas   python  scikit_learn  seaborn  Ruby HTML CSS Javascript
   
 
 
