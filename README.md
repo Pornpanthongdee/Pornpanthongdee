@@ -1,9 +1,9 @@
-<h3 align="left"> 👋 Hi, I’m EYE from Bangkok,Thailand! 👁</h3>
+<h3 align="left">  Hi, I’m EYE from Bangkok,Thailand! </h3>
 
-- 👀 I love learning new things! 🧠
-- 🌱 I have done Web Delvelopment and Data Science bootcamps with Le wagon 🏆
-- 🌱 I’m currently learning Data Science with General Assembly👩‍💻
-- 💞️ I am using Github to develop my programs 🦾
+- I love learning new things! 
+- I have done Web Delvelopment and Data Science bootcamps with Le wagon 
+- I’m currently learning Data Science with General Assembly
+- I am using Github to develop my programs 
 
 <p align="left">
   
